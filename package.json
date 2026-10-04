@@ -1,0 +1,10 @@
+{
+  "name": "ggr-website",
+  "version": "1.0.0",
+  "description": "Official website for Gwarmai Global Resources Limited (GGR)",
+  "private": true,
+  "scripts": {
+    "build": "python3 build.py",
+    "start": "python3 -m http.server 8080"
+  }
+}
